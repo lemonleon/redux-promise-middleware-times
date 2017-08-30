@@ -7,10 +7,10 @@ function addZero(num){
 }
 
 function formatTime(time) {
-    let oDate = new Date();
+    var oDate = new Date();
     oDate.setTime(time);
 
-    let s = oDate.getSeconds(),
+    var s = oDate.getSeconds(),
         m = oDate.getMinutes(),
         h = oDate.getHours();
 

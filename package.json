@@ -1,6 +1,6 @@
 {
   "name": "redux-promise-middleware-times",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Record the time consumed by each asynchronous action",
   "main": "src/index.js",
   "author": "lemonleon <msupercoder@gmail.com>",
@@ -11,7 +11,7 @@
     "redux-promise-middleware-times",
     "middleware"
   ],
-  "homepage": "https://github.com/lemonleon/redux-promise-middleware-times#readme",
+  "homepage": "https://github.com/lemonleon/redux-promise-middleware-times",
   "bugs": {
     "url": "https://github.com/lemonleon/redux-promise-middleware-times/issues"
   },
